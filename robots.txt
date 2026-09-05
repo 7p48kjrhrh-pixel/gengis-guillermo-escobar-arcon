@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://7p48kjrhrh-pixel.github.io/gengis-guillermo-escobar-arcon/sitemap.xml
